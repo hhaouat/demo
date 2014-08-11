@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Box office</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">testTitle</string>
+    <string name="myreview">My review</string>
+    
+	<string name="synopsis">Synopsis</string>
+	<string name="castings">Castings</string>
+	<string name="similar">Similar movies</string>
+	<string name="release">Release date </string>
+	<string name="audience">Audience</string>
+	<string name="critics">Critics</string>
+	
+</resources>
